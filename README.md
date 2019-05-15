@@ -25,4 +25,4 @@ Project Highlights:
 
 Feature engineering: Using lambda expressions to derive reason; hour, month, day of week, date, day/night from timeStamp, 
 
-Extensive data visualization - ordered countplots, lineplot, heatmaps, clustermaps, Facetgrid
+Extensive data visualization - ordered countplots, pie charts, lineplot, heatmaps, clustermaps, Facetgrid
