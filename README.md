@@ -13,5 +13,8 @@ twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
 
+Project Highlights:
+
 Feature engineering to derive hour, month, day of week, date from timeStamp, 
+
 extensive data visualization - ordered countplots, lineplot, heatmaps, clustermaps, Facetgrid
