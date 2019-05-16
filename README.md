@@ -1,7 +1,11 @@
-# Analyzing-911-calls-
+# Introduction
 Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA
 
-We will be analyzing some 911 call data from Kaggle. The data contains the following fields:
+We will be analyzing some 911 call data from Kaggle. 
+
+# Data
+
+The data contains the following fields:
 
 lat : String variable, Latitude
 
@@ -21,8 +25,8 @@ addr: String variable, Address
 
 e: String variable, Dummy variable (always 1)
 
-Project Highlights:
+# Techniques used:
 
-Feature engineering: Using lambda expressions to derive reason; hour, month, day of week, date, day/night from timeStamp, 
+- Feature engineering: Using lambda expressions to derive reason; hour, month, day of week, date, day/night from timeStamp, 
 
-Extensive data visualization - ordered countplots, pie charts, lineplot, heatmaps, clustermaps, Facetgrid
+- Extensive data visualization - ordered countplots, pie charts, lineplot, heatmaps, clustermaps, Facetgrid
